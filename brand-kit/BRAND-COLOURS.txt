@@ -1,0 +1,20 @@
+Jacinth & Associate — brand basics
+
+Colours
+  Obsidian (backgrounds)   #0F1214
+  Ivory (light background) #F6F2EB
+  Stone                    #ECE5D9
+  Brass (main accent)      #C39A5B   gradient #E7C992 -> #C39A5B -> #94703B
+  Dark brass (text on light) #94703B
+
+Fonts (free, Google Fonts)
+  Headings: Fraunces (Light/Regular)
+  Body:     Manrope
+
+Files
+  logo-for-dark-backgrounds.png / logo-light.svg  -> use on black or photos
+  logo-for-light-backgrounds.png / logo-dark.svg  -> use on white or ivory
+  mark-transparent.png / mark.svg                 -> icon only (stamps, site boards, watermarks)
+  profile-picture-1080.png                        -> WhatsApp Business, Instagram, Facebook, Google Business Profile
+  cover-facebook-linkedin-1640x624.jpg            -> Facebook / LinkedIn cover
+  email-signature-600.png                         -> email signature
